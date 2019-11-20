@@ -40,7 +40,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18505</dc:source>
 		<dc:source>https://archive.org/details/popularschoolgir00braz</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">“Wynch-on-the-Wold” is a fictitious place, but presumably mirrors the spelling of Stow-on-the-Wold, so ignore the titlecase warning thrown by `se lint`.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/angela-brazil_a-popular-schoolgirl</meta>
