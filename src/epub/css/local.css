@@ -57,13 +57,25 @@ p span.i2{
 	text-align: right;
 }
 
+[epub|type~="z3998:salutation"]{
+	font-style: italic;
+}
+
+#chapter-6 blockquote header{
+	text-align: center;
+}
+
+#chapter-6 blockquote header > p{
+	text-indent: 0;
+}
+
 #chapter-6 blockquote p > b{
 	display: block;
 	text-align: center;
 	margin: 1em 0;
 }
 
-#chapter-6 blockquote p + p > b{
+#chapter-6 blockquote header + p > b{
 	font-variant: all-small-caps;
 }
 
@@ -74,4 +86,8 @@ p span.i2{
 
 #chapter-20 ol{
 	list-style-type: none;
+}
+
+#chapter-20 ol > li:last-child{
+	margin-top: 0.5em;
 }
