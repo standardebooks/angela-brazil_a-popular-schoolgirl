@@ -19,8 +19,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.signature,
-.form{
+.signature{
 	font-variant: small-caps;
 }
 
