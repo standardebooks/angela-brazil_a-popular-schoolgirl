@@ -29,8 +29,8 @@ td:first-child{
 
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:verse"] p > span + br{
@@ -38,8 +38,8 @@ td:first-child{
 }
 
 p span.i2{
-	text-indent: -1em;
 	padding-left: 3em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:letter"] header{
