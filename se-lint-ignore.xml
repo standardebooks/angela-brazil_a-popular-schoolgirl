@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-3.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>"Wynch-on-the-Wold" is the correct titlecasing for this town name.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
