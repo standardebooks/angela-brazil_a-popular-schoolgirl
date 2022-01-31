@@ -43,8 +43,8 @@ p span.i2{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: right;
 	font-variant: small-caps;
+	text-align: right;
 }
 
 footer{
@@ -66,8 +66,8 @@ footer{
 
 #chapter-6 blockquote p > b{
 	display: block;
-	text-align: center;
 	margin: 1em 0;
+	text-align: center;
 }
 
 #chapter-6 blockquote header + p > b{
@@ -75,8 +75,8 @@ footer{
 }
 
 #chapter-11 blockquote{
-	text-align: center;
 	font-variant: all-small-caps;
+	text-align: center;
 }
 
 #chapter-20 ol{
