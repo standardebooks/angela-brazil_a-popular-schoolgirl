@@ -42,7 +42,7 @@
 		<dc:source>https://archive.org/details/popularschoolgir00braz</dc:source>
 		<meta property="se:production-notes">“Wynch-on-the-Wold” is a fictitious place, but presumably mirrors the spelling of Stow-on-the-Wold, so ignore the titlecase warning thrown by `se lint`.</meta>
 		<meta property="se:word-count">66028</meta>
-		<meta property="se:reading-ease.flesch">72.05</meta>
+		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/angela-brazil_a-popular-schoolgirl</meta>
 		<dc:creator id="author">Angela Brazil</dc:creator>
 		<meta property="file-as" refines="#author">Brazil, Angela</meta>
